@@ -1,0 +1,205 @@
+.image-2-icon4 {
+  position: absolute;
+  top: 3px;
+  left: 305px;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+.child49 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--main-green);
+  width: 124px;
+  height: 40px;
+}
+.b,
+.child49,
+.div181 {
+  position: absolute;
+}
+.b {
+  top: 11px;
+  left: 21px;
+  line-height: 18px;
+}
+.div181 {
+  top: 0;
+  left: 0;
+  width: 124px;
+  height: 40px;
+}
+.div180 {
+  width: 340px;
+  position: relative;
+  height: 40px;
+}
+.child50 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--main-dark-gray);
+  width: 360px;
+  height: 61px;
+}
+.dots-icon {
+  position: absolute;
+  top: 21px;
+  left: 337px;
+  width: 4px;
+  height: 20px;
+}
+.span {
+  color: var(--text-gray);
+}
+.div183,
+.div184,
+.div185,
+.div186,
+.name {
+  position: absolute;
+  top: 20px;
+  left: 102px;
+  line-height: 18px;
+}
+.div184,
+.div185,
+.div186,
+.name {
+  left: 187px;
+}
+.div185,
+.div186,
+.name {
+  left: 225px;
+}
+.div186,
+.name {
+  left: 261px;
+}
+.name {
+  left: 19px;
+  color: var(--main-dark-green);
+}
+.div182 {
+  width: 360px;
+  position: relative;
+  height: 61px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-microsoft-sans-serif);
+}
+.frame11 {
+  width: 360px;
+  height: 130px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-10xl);
+}
+.div187 {
+  width: 360px;
+  position: relative;
+  height: 61px;
+}
+.frame13 {
+  width: 360px;
+  height: 130px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.calendar-3047128-1-icon {
+  width: 61px;
+  position: relative;
+  height: 40px;
+  object-fit: cover;
+}
+.button9,
+.calendar {
+  display: flex;
+  align-items: center;
+}
+.calendar {
+  width: 46px;
+  position: relative;
+  font-size: var(--font-size-smi);
+  line-height: 18px;
+  font-family: var(--font-microsoft-sans-serif);
+  color: var(--color-darkgray);
+  text-align: left;
+}
+.button9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.apple-1-icon,
+.profile-1-icon {
+  width: 36px;
+  position: relative;
+  height: 35px;
+  object-fit: cover;
+}
+.profile-1-icon {
+  width: 34px;
+}
+.me {
+  position: relative;
+  font-size: var(--font-size-smi);
+  line-height: 18px;
+  font-family: var(--font-microsoft-sans-serif);
+  color: var(--color-darkgray);
+  text-align: left;
+}
+.menu {
+  align-self: stretch;
+  background-color: var(--background-gray);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-31xl);
+}
+.div179,
+.frame12 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame12 {
+  width: 360px;
+  height: 653px;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 465px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-microsoft-sans-serif);
+}
+.div179 {
+  width: 100%;
+  position: relative;
+  background-color: var(--background-black);
+  height: 800px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: var(--padding-4xs) 1px 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-5xs);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--background-white);
+  font-family: var(--font-sansation);
+}

@@ -1,0 +1,266 @@
+.calendar-3047128-1-icon3 {
+  width: 61px;
+  position: relative;
+  height: 40px;
+  object-fit: cover;
+}
+.button18,
+.calendar3 {
+  display: flex;
+  align-items: center;
+}
+.calendar3 {
+  width: 46px;
+  position: relative;
+  font-size: var(--font-size-smi);
+  line-height: 18px;
+  font-family: var(--font-microsoft-sans-serif);
+  color: var(--color-darkgray);
+  text-align: left;
+}
+.button18 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+}
+.apple-1-icon3,
+.profile-1-icon3 {
+  width: 36px;
+  position: relative;
+  height: 35px;
+  object-fit: cover;
+}
+.profile-1-icon3 {
+  width: 34px;
+}
+.me3 {
+  position: relative;
+  font-size: var(--font-size-smi);
+  line-height: 18px;
+  font-family: var(--font-microsoft-sans-serif);
+  color: var(--color-darkgray);
+  text-align: left;
+}
+.menu3 {
+  position: absolute;
+  top: 742px;
+  left: 0;
+  background-color: var(--background-gray);
+  width: 360px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-31xl);
+}
+.plus-icon1 {
+  width: 25px;
+  position: relative;
+  height: 25px;
+}
+.plus2 {
+  position: absolute;
+  top: 672px;
+  left: 286px;
+  border-radius: var(--br-mini);
+  background-color: var(--main-green);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-smi);
+}
+.image-2-icon5 {
+  top: 3px;
+  left: 305px;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+.b1,
+.child72,
+.image-2-icon5 {
+  position: absolute;
+}
+.child72 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--main-green);
+  width: 124px;
+  height: 40px;
+}
+.b1 {
+  top: 11px;
+  left: 21px;
+  line-height: 18px;
+}
+.div233,
+.div234 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 124px;
+  height: 40px;
+}
+.div233 {
+  top: 8px;
+  left: 5px;
+  width: 340px;
+  font-size: var(--font-size-xl);
+}
+.child73,
+.child74 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 360px;
+  height: 135px;
+}
+.child73 {
+  background-color: var(--main-dark-gray);
+}
+.child74 {
+  background-color: transparent;
+  border: 1px solid var(--main-green);
+  box-sizing: border-box;
+}
+.div236 {
+  position: absolute;
+  top: 26px;
+  left: 83px;
+  line-height: 18px;
+}
+.dots-icon5,
+.plus-icon2 {
+  position: absolute;
+  top: 25px;
+  left: 301px;
+  width: 20px;
+  height: 20px;
+}
+.dots-icon5 {
+  left: 337px;
+  width: 4px;
+}
+.image-child {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--background-white);
+}
+.child75,
+.image,
+.image-4-icon,
+.image-child {
+  position: absolute;
+  width: 55px;
+  height: 55px;
+}
+.image-4-icon {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  object-fit: cover;
+}
+.child75,
+.image {
+  top: 7px;
+  left: 10px;
+}
+.child75 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray);
+  width: 38px;
+  height: 46px;
+}
+.span12 {
+  color: var(--text-gray);
+}
+.div238,
+.div239 {
+  left: 4px;
+  line-height: 18px;
+}
+.div238 {
+  position: absolute;
+  top: 5px;
+}
+.div239 {
+  top: 24px;
+}
+.div235,
+.div237,
+.div239 {
+  position: absolute;
+}
+.div237 {
+  top: 76px;
+  left: 18px;
+  width: 38px;
+  height: 46px;
+  font-size: var(--font-size-smi);
+  font-family: var(--font-microsoft-sans-serif);
+}
+.div235 {
+  top: 278px;
+  left: 0;
+  width: 360px;
+  height: 135px;
+}
+.b2,
+.div241 {
+  position: absolute;
+  line-height: 18px;
+}
+.b2 {
+  top: 248px;
+  left: 155px;
+  color: var(--main-green);
+}
+.div241 {
+  top: 27px;
+  left: 83px;
+  white-space: pre-wrap;
+}
+.image-3-icon2 {
+  top: 8px;
+  left: 10px;
+  border-radius: var(--br-mini);
+  width: 55px;
+  height: 55px;
+  object-fit: cover;
+}
+.b3,
+.div240,
+.image-3-icon2 {
+  position: absolute;
+}
+.div240 {
+  top: 101px;
+  left: 0;
+  width: 360px;
+  height: 135px;
+}
+.b3 {
+  top: 67px;
+  left: 150px;
+  line-height: 18px;
+  color: var(--main-green);
+}
+.div232 {
+  width: 100%;
+  position: relative;
+  background-color: var(--background-black);
+  height: 800px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--background-white);
+  font-family: var(--font-sansation);
+}
